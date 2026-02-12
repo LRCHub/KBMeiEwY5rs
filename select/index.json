@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "WELCOME BACK",
+  "base_artist": "iKON",
+  "createdAt": "2026-02-12T17:20:59.461867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "Young Jeezy",
+      "has_synced": true,
+      "path": "select/01_Welcome_Back_Young_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/02_Welcome_Back_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Welcome Back Pretty Baby",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/03_Welcome_Back_Pretty_Baby_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "John Sebastian",
+      "has_synced": true,
+      "path": "select/04_Welcome_Back_John_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Welcome Back, O' Sleeping Dreamer",
+      "artist": "Lorna Shore",
+      "has_synced": true,
+      "path": "select/05_Welcome_Back,_O'_Sleeping_Dreamer_Lorna_Shore.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Welcome Back Jesus",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_Welcome_Back_Jesus_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Welcome Back Victoria",
+      "artist": "Jesus Jones",
+      "has_synced": false,
+      "path": "select/07_Welcome_Back_Victoria_Jesus_Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "John Sebastian",
+      "has_synced": false,
+      "path": "select/08_Welcome_Back_John_Sebastian.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "John Sebastian",
+      "has_synced": true,
+      "path": "select/09_Welcome_Back_John_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/10_Welcome_Back_Mase.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Welcome Back (Theme from \"Welcome Back, Kotter\")",
+      "artist": "John Sebastian",
+      "has_synced": true,
+      "path": "select/11_Welcome_Back_(Theme_from__Welcome_Back,_Kotter_)_John_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Welcome Back, Kotter",
+      "artist": "John Sebastian",
+      "has_synced": false,
+      "path": "select/12_Welcome_Back,_Kotter_John_Sebastian.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Welcome Back",
+      "artist": "lil wayne",
+      "has_synced": false,
+      "path": "select/13_Welcome_Back_lil_wayne.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Welcome Back (feat. Chris Brown & Capella Grey)",
+      "artist": "Joey Bada$$",
+      "has_synced": false,
+      "path": "select/14_Welcome_Back_(feat._Chris_Brown_&_Capella_Grey)_Joey_Bada$$.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Welcome Back",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_Welcome_Back_iKON.txt"
+    }
+  ]
+}
